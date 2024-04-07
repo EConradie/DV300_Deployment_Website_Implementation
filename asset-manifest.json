@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GalacticGetaways/static/css/main.0cd68e47.css",
+    "main.js": "/GalacticGetaways/static/js/main.a2fea203.js",
+    "static/js/453.419a5d54.chunk.js": "/GalacticGetaways/static/js/453.419a5d54.chunk.js",
+    "static/media/mobile_app_background.png": "/GalacticGetaways/static/media/mobile_app_background.27fb788241ccbef5f5c8.png",
+    "static/media/Header_background.png": "/GalacticGetaways/static/media/Header_background.bfe468b57cccd4a59d65.png",
+    "static/media/astro.png": "/GalacticGetaways/static/media/astro.245b862074e70d932297.png",
+    "static/media/planet2.png": "/GalacticGetaways/static/media/planet2.e2c79ef576aa29677adb.png",
+    "static/media/phone.png": "/GalacticGetaways/static/media/phone.9e335cb17592f36d6531.png",
+    "static/media/planet3.png": "/GalacticGetaways/static/media/planet3.86636bd9b5874fad73e9.png",
+    "index.html": "/GalacticGetaways/index.html",
+    "main.0cd68e47.css.map": "/GalacticGetaways/static/css/main.0cd68e47.css.map",
+    "main.a2fea203.js.map": "/GalacticGetaways/static/js/main.a2fea203.js.map",
+    "453.419a5d54.chunk.js.map": "/GalacticGetaways/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd68e47.css",
+    "static/js/main.a2fea203.js"
+  ]
+}
